@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and exploring different techs like ReactJS, Bash Scripting, Python.
 - 📫 How to reach me :
              - linkedin.com/in/pooja-p-188031182 | patelpooja126018@gmail.com
-- 👉 More on www.poojapatel.netlify.app
+- 👉 More on https://poojapatel.netlify.app/
 
 
 
